@@ -3,7 +3,7 @@
 Flutter application for visualizing themes, typography, components, etc.
 
 ## Example
-<img src="https://github.com/tylersuehr7/flutter-theme-visualizer/blob/main/example_usage.gif" width="200">
+<img src="https://github.com/tylersuehr7/flutter-theme-visualizer/blob/main/example_usage.gif" width="400">
 
 ## Getting Started
 
