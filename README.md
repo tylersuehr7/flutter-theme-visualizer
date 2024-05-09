@@ -6,6 +6,11 @@ Flutter application for visualizing themes, typography, components, etc.
 - Flutter 3.16.0
 - Dart 3.2.0 | DevTools 2.28.2
 
+## Target Platforms
+- MacOS
+- Windows
+- Linux
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
